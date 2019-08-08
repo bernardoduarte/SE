@@ -1,43 +1,29 @@
-# SE
+# Tópicos Especiais - Sistemas Embarcados
+Repositório para uso no curso de Sistemas Embarcados da UERJ
 
-Disciplina de Software Embarcado:
+Professor: [Francisco Sant'Anna](https://github.com/fsantanna)
 
-https://github.com/fsantanna-uerj/SE
-
-Conteúdo:
-
+# Conteúdo:
 - Arduino
 - GPIO / Entrada e Saída
     - Digital e Analógica
 - Sensores e Atuadores
 - Temporizadores
+- Conversor analógico digital
 - Comunicação Serial
     - USART, I2C, SPI
 - Comunicação via Rádio
 - Tratamento de Interrupções
 
-<!--
-Pessoal,
+# Livros
+1. [Introduction to Embedded Systems: Using ANSI C and the Arduino Development Environment](https://www.amazon.com/Introduction-Embedded-Systems-Development-Environment/dp/1608454983)
+2. [C - Primer Plus](https://www.amazon.com/Primer-Plus-5th-Stephen-Prata/dp/0672326965)
 
-Estou oferecendo uma disciplina eletiva para o próximo semestre:
+# Vídeos
+1. [Arduino Basics - Curso do Robert Paz](https://www.youtube.com/watch?v=9Q-3c0gQcok&list=PLifLftIJFUm-1iIAEPWvuSJTA50YKYD7J)
+2. [Curso de Arduino e AVR - WR Kits](https://www.youtube.com/watch?v=S34PnG143sE&list=PLZ8dBTV2_5HSyOXhJ77d-iyt5Z_v_1DPM)
 
-Software Embarcado
-
-Segunda: M5-M6
-Quarta:  M5-M6
-
-Disciplina - Código - Turma:
-
-Tópicos Especiais  I - 04-10874 - Turma 2
-ou
-Tópicos Especiais II - 04-10875 - Turma 2
-
-A disciplina envolve programação para Arduino.
-O enfoque é bastante prático e os trabalhos desenvolvidos durante o curso podem evoluir para projetos finais.
-O link a seguir apresenta o conteúdo da disciplina:
-
-https://github.com/fsantanna-uerj/SE
-
-Atenciosamente,
-Francisco Sant'Anna (francisco@ime.uerj.br)
--->
+# Links
+1. [Arduino - Manipulação Direta de Portas](http://renatoaloi.blogspot.com/2015/09/arduino-manipulacao-direta-de-portas.html)
+2. [Tutorial Matemática de Bits no Arduino](http://renatoaloi.blogspot.com/2015/09/tutorial-matematica-de-bits-no-arduino.html)
+3. [Bits em Linguagem C - Conceito e Aplicação](https://www.embarcados.com.br/bits-em-linguagem-c/)
