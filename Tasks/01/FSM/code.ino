@@ -243,7 +243,7 @@ void loop() {
       if (now - led_changed_at >= led_delay) {
         state_2(now, b1_pressed_at);
       } else if (but1) {
-        state_1(led_changed_at);
+        state_9(led_changed_at);
       } else if (!but2) {
         state_16();
       } else if (now - b1_pressed_at >= 500) {
